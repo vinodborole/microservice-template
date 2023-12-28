@@ -285,3 +285,6 @@ _Ports and adapters_ are very close to _Clean Architecture_, the differences are
 ## Useful links
 - [The Clean Architecture article](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [Twelve factors](https://12factor.net/ru/)
+
+## Demo purpose only from Dinesh
+This is from Dinesh.
